@@ -16,5 +16,5 @@ This project applies machine learning to predict the likelihood of heart disease
 * Achieved an **Accuracy of 85.25%** and a **Precision of 87.10%**, demonstrating strong reliability in predicting positive cases.
 
 ## 📂 Repository Structure
-* `Logistic_regression_3algo.ipynb`: The complete notebook containing EDA, data preprocessing, model training, and evaluation.
+* `Heart _Disease_ Prediction .ipynb`: The complete notebook containing EDA, data preprocessing, model training, and evaluation.
 * `heart.csv`: The dataset used for training and testing.
